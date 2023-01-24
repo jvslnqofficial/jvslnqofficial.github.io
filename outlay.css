@@ -2,7 +2,7 @@ p {
   font-family: "Lucida Console", "Courier New", monospace;
   line-height: 12px;
   font-size: 12px;
-  background: url(lib/bg-x.gif);
+  background: url(bg-x.gif);
   background-size: 1000px;
   -webkit-background-clip: text;
   background-attachment: fixed;
