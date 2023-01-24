@@ -1,0 +1,18 @@
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+  line-height: 12px;
+  font-size: 12px;
+  background: url(lib/bg-x.gif);
+  background-size: 1000px;
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  -webkit-text-fill-color: white;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background: black;
+  overflow: hidden;
+}
