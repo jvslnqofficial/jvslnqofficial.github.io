@@ -1,2 +1,2 @@
-# jvslnqofficial1.github.io
+# jvslnqofficial.github.io
 sample
